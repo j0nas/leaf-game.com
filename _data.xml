@@ -7,7 +7,7 @@
 	<website>http://www.leaf-game.com/</website>
 	<based-in>Oslo, Norway</based-in>
 
-	<press-contact>jonas.jensen@msn.com</press-contact>
+	<press-contact>contact@leaf-game.com</press-contact>
 	<phone>+47 942 92 584</phone>
 	<address>
 		<line>Enebakkveien 15</line>
@@ -118,25 +118,29 @@
 
 	<credits>
 		<credit>
-			<person>John Doe</person>
-			<role>Artist, Freelancer</role>
+			<person>Jonas Jensen</person>
+            <website>www.jonas-jensen.com</website>
+            <role>Developer, Consultant</role>
 		</credit>
 		<credit>
-			<person>Oliver Twist</person>
-			<website>www.olivertwist.com</website>
-			<role>Artist, Freelancer</role>
+			<person>Joachim Holmsen</person>
+			<website>www.joachimholmsen.com</website>
+			<role>Game designer</role>
 		</credit>
 		<credit>
-			<person>Jane Doette</person>
-			<website>www.olivertwist.com</website>
-			<role>Music, Freelancer</role>
+			<person>Edvin Klæbo</person>
+			<role>Developer</role>
 		</credit>
-	</credits>
+        <credit>
+            <person>Camilla Wang Kvalheim</person>
+            <role>Artist, Freelancer</role>
+        </credit>
+    </credits>
 
 	<contacts>
 		<contact>
 			<name>Inquiries</name>
-			<mail>rami@vlambeer.com</mail>
+			<mail>contact@leaf-game.com</mail>
 		</contact>
 		<contact>
 			<name>Twitter</name>
@@ -145,10 +149,6 @@
 		<contact>
 			<name>Facebook</name>
 			<link>http://facebook.com/MyCompanyName</link>
-		</contact>
-		<contact>
-			<name>Web</name>
-			<link>MyCompanyWebsite.com</link>
 		</contact>
 	</contacts>
 </game>
