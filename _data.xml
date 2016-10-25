@@ -2,36 +2,36 @@
 <!-- example file containing base tags -->
 
 <game>	
-	<title>Company Name</title>
-	<founding-date>September 1, 2010</founding-date>
-	<website>http://www.website.com/</website>
-	<based-in>Cityville, Metropolisland</based-in>
+	<title>Leaf</title>
+	<founding-date>November 1, 2016</founding-date>
+	<website>http://www.leaf-game.com/</website>
+	<based-in>Oslo, Norway</based-in>
 	
-	<press-contact>press-contact@company.com</press-contact>
-	<phone>+00 (1) 22 33 44 55 66</phone>
+	<press-contact>jonas.jensen@msn.com</press-contact>
+	<phone>+47 942 92 584</phone>
 	<address>
-		<line>Address Line 1</line>
-		<line>Address Line 2</line>
-		<line>Address Line 3</line>
+		<line>Enebakkveien 15</line>
+		<line>0657 OSLO</line>
+		<line>NORWAY</line>
 	</address>
 
-	<socials>
-		<social>
-			<name>twitter.com/MyCompanyName</name>
-			<link>twitter.com/MyCompanyName</link>
-		</social>
-		<social>
-			<name>facebook.com/MyCompanyName</name>
-			<link>facebook.com/MyCompanyName</link>
-		</social>
-		<social>
-			<name>Skype</name>
-			<link>callto:MySkypeName</link>
-		</social>
-	</socials>
+	<!--<socials>-->
+		<!--<social>-->
+			<!--<name>twitter.com/MyCompanyName</name>-->
+			<!--<link>twitter.com/MyCompanyName</link>-->
+		<!--</social>-->
+		<!--<social>-->
+			<!--<name>facebook.com/MyCompanyName</name>-->
+			<!--<link>facebook.com/MyCompanyName</link>-->
+		<!--</social>-->
+		<!--<social>-->
+			<!--<name>Skype</name>-->
+			<!--<link>callto:MySkypeName</link>-->
+		<!--</social>-->
+	<!--</socials>-->
 
 	<description>	
-		We're games studio and we make games. We're also capable of editing XML files.
+		// TODO: create company discription.
 	</description>
 		
 	<histories>
